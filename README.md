@@ -8,7 +8,17 @@ For this competition, we will be chasing down robots for an online auction site.
 
 
 # Attempt
-( a more detailed version of ipynb file is uploaded
+( a more detailed version of ipynb file is uploaded )
+
+Analzing more than 7 million bids to come up with various features such as : <br>
+
+Num of bids<br>
+statistics of time difference for bids of each bidder<br>
+entropy level of each bidder<br>
+standard statistics of characteristics of each bidder (IPs, Devices, Countries, URLs)<br>
+Number of 'first' and 'last' bids done for an auction for each bidder<br>
+
+Utilising Bagging and Boosting of 4 different models ( RandomForest, XGBoost, CatBoost and Gradient Boosting)<br>
 
 
 # Results 
