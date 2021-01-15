@@ -9,7 +9,7 @@ For this competition, we will be chasing down robots for an online auction site.
 
 # Attempt
 
-**Analyzing more than 7 million bids to come up with various features such as : ** <br>
+**Analyzing more than 7 million bids to come up with various features such as :** <br>
 
 Num of bids<br>
 statistics of time difference for bids of each bidder<br>
