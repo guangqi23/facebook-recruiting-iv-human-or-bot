@@ -20,7 +20,7 @@ Number of 'first' and 'last' bids done for an auction for each bidder<br>
 Utilising Bagging and Boosting of 4 different models ( RandomForest, XGBoost, CatBoost and Gradient Boosting)<br>
 
 **Training accuracy** : 94.125% <br>
-**Average Training AUC** : 0.939 <br>
+**Average Training AUC (on Training Dataset) ** : 0.939 <br>
 
 
 # Results 
